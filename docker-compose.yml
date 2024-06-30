@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  app1:
+    build: ./semesta-app1
+    ports:
+      - "3000:3000"
+    environment:
+      - APP2_URL=http://103.63.25.80:3001/aboutus
+
+
+  app2:
+    build: ./semesta-app2
+    ports:
+      - "3001:3001"
