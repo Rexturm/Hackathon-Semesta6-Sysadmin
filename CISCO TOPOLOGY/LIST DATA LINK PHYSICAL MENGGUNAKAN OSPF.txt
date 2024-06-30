@@ -1,0 +1,28 @@
+LIST DATA LINK PHYSICAL MENGGUNAKAN OSPF
+
+Data Center Router Pusat Data:
+
+S0/0/0 → S0/0/0 Jakarta
+S0/0/1 → S0/0/0 Bandung
+S0/1/0 → S0/0/0 Surabaya
+
+
+Jakarta:
+
+S0/0/0 → S0/0/0 Pusat Data
+S0/1/0 → S0/1/0 Bandung
+S0/1/1 → S0/1/0 Surabaya
+
+
+Bandung:
+
+S0/0/0 → S0/0/1 Pusat Data
+S0/1/0 → S0/1/0 Jakarta
+S0/1/1 → S0/1/1 Surabaya
+
+
+Surabaya:
+
+S0/0/0 → S0/1/0 Pusat Data
+S0/1/0 → S0/1/1 Jakarta
+S0/1/1 → S0/1/1 Bandung
