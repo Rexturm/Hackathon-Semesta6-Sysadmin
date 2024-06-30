@@ -54,4 +54,4 @@ Dashboard Zabbix
 
 
 <br><br><br><br><br><br> saya menggunakan vps debian 11 
-![3-2 install mariadb untuk database](https://github.com/rexturn/Hackathon-Semesta6-Sysadmin/assets/65783188/efd5cbaf-5832-4125-8210-0f0575023a15)
+![image](https://github.com/Rexturm/Hackathon-Semesta6-Sysadmin/assets/65783188/549d3333-1b0e-473e-92d8-68a5bff69cb0)
