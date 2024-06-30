@@ -9,8 +9,6 @@ untuk mengimplementasikan topologi jaringan yang memiliki 4 router 1 router seba
 SIMULASI BILA TERJADI LINK DOWN
 <br><br>
 <br><br>
-<br><br>
-<br><br>
  apabila jalur router pusat <> router bandung putus (saya shutdown port)
 ![image](https://github.com/Rexturm/Hackathon-Semesta6-Sysadmin/assets/65783188/20609a4c-0272-4637-b3bd-c2925060d0de)
 <br><br>
