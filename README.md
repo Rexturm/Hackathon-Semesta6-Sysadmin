@@ -1,7 +1,7 @@
 # Hackathon-Semesta6-Sysadmin
 HackathonSemestaSysadmin, HackathonSemesta2024
 
-Tatang ingin membuat sebuah kode / script untuk proses konfigurasi server linux nya supaya dapat melakukan konfigurasi di server linux baru atau pun server backup
+Tatang ingin membuat sebuah kode / script untuk proses konfigurasi server linux nya supaya dapat melakukan konfigurasi di server linux baru atau pun server backup dengan ansible
 
 ![install ansible](https://github.com/rexturn/Hackathon-Semesta6-Sysadmin/assets/65783188/6a018fc5-aeb8-4921-b27c-cf3d4eaf0756)
 ![setting ansible username server](https://github.com/Rexturm/Hackathon-Semesta6-Sysadmin/assets/65783188/06bea228-0e6e-469f-9b62-5da8a2121837)
