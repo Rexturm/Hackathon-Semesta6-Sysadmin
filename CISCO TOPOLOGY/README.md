@@ -22,7 +22,15 @@ OSPF Berhasil bekerja
 <br><br>
 ![image](https://github.com/Rexturm/Hackathon-Semesta6-Sysadmin/assets/65783188/f64b96f8-0b56-42e2-9e59-c3bbc9e0d984)
 
+<br><br>
+<br><br>
+LIST IP yang digunakan
+<br><br>
 
-
+Server: 10.0.1.2/28
+Backup Server: 10.0.1.3/28
+Server Jakarta : 10.0.2.2
+Server Bandung : 10.0.3.2
+Server Surabaya : 10.0.4.2
 
 
